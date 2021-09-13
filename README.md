@@ -13,13 +13,12 @@ ___
 
 ### 🧠 Currently
 
-- I've graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development.__
-- I’m currently working on:
+- I've graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August.
+- I’m working on:
     - [A portfolio site for DZM Structural Engineering](https://github.com/celestealexmoore/moore_engineering)
     - [A website for Sophia Marjorie, Beautician](https://github.com/celestealexmoore/sophiamarjorie)
 
-
-- I’m currently leaning into front-end design: UX/UI design tools, sharpening my CSS3 skills, and practicing JavaScript algorithms.
+- I’m leaning into front-end design: UX/UI design tools, sharpening my CSS3 skills, and practicing JavaScript algorithms.
 ___
 
 ### 😳 Fun Facts:
@@ -38,7 +37,7 @@ ___
 
 ### 📈 My Career Goals:
 
-  are both fluid and straight-forward. I want to land a Junior Front-End Developer role, with a company intentional about diversity and building good culture. Most preferably with opportunities for growth.
+are both fluid and straight-forward. I want to land a Junior Front-End Developer role, with a company intentional about diversity and building good culture. Most preferably with opportunities for growth.
 ___
 
 <div align="center">
