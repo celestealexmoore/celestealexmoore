@@ -15,7 +15,7 @@ ___
 
 - I've graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August.
 - I’m working on:
-    - [A portfolio site for DZM Structural Engineering](https://github.com/celestealexmoore/moore_engineering)
+    - [A portfolio site for DZM Structural Engineering](https://celestealexmoore.github.io/moore_engineering/)
     - [A website for Sophia Marjorie, Beautician](https://github.com/celestealexmoore/sophiamarjorie)
 
 - I’m leaning into front-end design: UX/UI design tools, sharpening my CSS3 skills, and practicing JavaScript algorithms.
