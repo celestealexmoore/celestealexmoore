@@ -10,7 +10,9 @@
   
   Hi! I'm Celeste. If you'd like to get straight to business, [see my resume.](https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html)  
   
-I am a Full Stack JavaScript Developer with a creative eye and knack for aesthetics. Interests include Googling emerging technologies, sifting through color schemes and typography that best fits the software I’m designing, and sharing Tech Tea with friends. I am heavy on the “I may not have done that before, but I can take that idea and give it a life with some HTML, CSS and JavaScript.”
+I am a Full Stack JavaScript Developer with an artistic eye and knack for aesthetics. My interests include Googling emerging technologies, sifting through color schemes and typography best suited for the software I’m designing, and sharing Tech Tea with friends. I am heavy on the “I may not have done _____ before, but I can take that idea and give it a life with some HTML, CSS, and JavaScript.” I genuinely enjoy when my plans leap from the wireframe onto a well-polished interface.
+
+If I’m not coding, I’m somewhere loudly laughing, cooking for an army, improving old recipes, supporting small businesses, binging on Grey’s Anatomy, clanking margarita glasses with my husband, or doing Pinterest activities with my one-year-old.
 
 ___
 
