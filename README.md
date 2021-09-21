@@ -14,10 +14,10 @@ I am a Full Stack JavaScript Developer with an artistic eye and knack for aesthe
 
 If I’m not coding, you can find me loudly laughing, cooking to end world hunger, supporting small businesses, clanking margarita glasses with my husband, or doing Pinterest activities with my one-year-old. And sometimes all of the above, simultaneously.
 
-Skills/ Interests: JavaScript | jQuery | Node | React | Git/Github.
-Styled Components: HTML5 | CSS3 | Bootstrap | Tailwind. <- This part is my favorite.
-I’m circling back to: MongoDB | Express.js | and SQL because...BootCamp. *whew*
-I have an interest in discovering: Python and .NET
+Skills/ Interests: JavaScript | jQuery | Node | React | Git/Github.  
+Styled Components: HTML5 | CSS3 | Bootstrap | Tailwind.  
+I’m circling back to: MongoDB | Express.js | and SQL 
+I have an interest in discovering: Python and .NET  
 ___
 
 ### 🧠 Currently
