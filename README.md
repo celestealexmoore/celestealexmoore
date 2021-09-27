@@ -26,6 +26,7 @@ ___
 - I’m working on:
     - [A portfolio site for DZM Structural Engineering](https://celestealexmoore.github.io/moore_engineering/)
     - [A website for Sophia Marjorie, Beautician](https://github.com/celestealexmoore/sophiamarjorie)
+    - Making all repos accessible and responsive.
 
 - I’m leaning into front-end design: UX/UI design tools, sharpening my CSS3 skills, and practicing JavaScript algorithms.
 ___
