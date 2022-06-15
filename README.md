@@ -10,25 +10,24 @@
   
   Hi! I'm Celeste. If you'd like to get straight to business, [see my resume.](https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html)  
   
+  I graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August 2021. #BootCampBaby
+  
 I am a Full Stack JavaScript Developer with an artistic eye and knack for aesthetics. My interests include Googling emerging technologies, sifting through color schemes and typography best suited for the software I’m designing, and sharing Tech Tea with friends. I am heavy on the “I may not have done that before, but I can give any idea life with HTML, CSS, and JavaScript.” I genuinely enjoy when my plans leap from the wireframe onto a well-polished interface.
 
 If I’m not coding, you can find me loudly laughing, cooking to end world hunger, supporting small businesses, clanking margarita glasses with my husband, or doing Pinterest activities with my one-year-old. And sometimes all of the above, simultaneously.
 
-Skills/ Interests: JavaScript | jQuery | Node | React | Git/Github.  
-Styled Components: HTML5 | CSS3 | Bootstrap | Tailwind.  
+Skills/ Interests: HTML5 | JavaScript | Node | React | Git/Github.  
+Styled Components: CSS3 | Bootstrap | Tailwind.  
 I’m circling back to: MongoDB | Express.js | and SQL 
-I have an interest in discovering: Python and .NET  
+I have an interest in discovering: Java, PHP, and .NET  
 ___
 
 ### 🧠 Currently
 
-- I've graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August.
 - I’m working on:
-    - [A portfolio site for DZM Structural Engineering](https://celestealexmoore.github.io/moore_engineering/)
-    - [A website for Sophia Marjorie, Beautician](https://github.com/celestealexmoore/sophiamarjorie)
-    - Making all repos accessible and responsive.
-
-- I’m leaning into front-end design: UX/UI design tools, sharpening my CSS3 skills, and practicing JavaScript algorithms.
+    - Pair-coding with friends, developing React applications for practice | See [hatchwaysReactApp](https://github.com/celestealexmoore/hatchways_ReactApp), [work_Order](https://github.com/celestealexmoore/work_Order), or [react_Calculator](https://github.com/celestealexmoore/react_Calculator)
+    - A React-based mock-up of Instagram | See [instagram_Clone](https://github.com/celestealexmoore/instagram_Clone)
+    - Crushing JavaScript algorithms
 ___
 
 ### 😳 Fun Facts:
@@ -55,21 +54,17 @@ ___
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   © 2021 _celestealexmoore_
   
