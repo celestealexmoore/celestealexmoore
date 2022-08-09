@@ -16,24 +16,26 @@ I am a Full Stack JavaScript Developer with an artistic eye and knack for aesthe
 
 If I’m not coding, you can find me loudly laughing, cooking to end world hunger, supporting small businesses, clanking margarita glasses with my husband, or doing Pinterest activities with my one-year-old. And sometimes all of the above, simultaneously.
 
-Skills/ Interests: HTML5 | JavaScript | Node | React | Git/Github.  
-Styled Components: CSS3 | Bootstrap | Tailwind.  
-I’m circling back to: MongoDB | Express.js | and SQL 
-I have an interest in discovering: Java, PHP, and .NET  
+Frontend Skills: JavaScript | HTML | CSS | React.js | Tailwind | Bootstrap | Some TypeScript & Angular  
+Backend Skills: Node.js | Express.js | MongoDB | MySQL | Firebase  
+Other Technologies: Heroku | GitHub/ GitLab | Canva  
+I have an interest in discovering: Java, PHP, and .NET    
 ___
 
 ### 🧠 Currently
 
 - I’m working on:
+    - Building a new Portfolio with React using a Paralax Effect.
     - Pair-coding with friends, developing React applications for practice | See [hatchwaysReactApp](https://github.com/celestealexmoore/hatchways_ReactApp), [work_Order](https://github.com/celestealexmoore/work_Order), or [react_Calculator](https://github.com/celestealexmoore/react_Calculator)
     - A React-based mock-up of Instagram | See [instagram_Clone](https://github.com/celestealexmoore/instagram_Clone)
-    - Crushing JavaScript algorithms
+    - Crushing Medium Leetcode algorithms and better understanding Time and Space Complexities.
+    - Introducing myself to Angular and Typescript.
 ___
 
 ### 😳 Fun Facts:
 
 - I'm a Pastry Professor at a Houston College and loving it.
-- I've written a book on Baking for Dietary Needs.
+- I've write and illustrate e-books for fun.
 - I can give you best places to eat in Houston, no matter the cuisine. Go ahead, try me.
 
 ___
