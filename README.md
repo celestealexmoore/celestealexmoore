@@ -68,7 +68,7 @@ ___
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-  © 2021 _celestealexmoore_
+  © 2022 _celestealexmoore_
   
 </div>
 
