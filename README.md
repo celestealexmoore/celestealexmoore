@@ -31,7 +31,7 @@ ___
 ### 😳 Fun Facts:
 
 - I'm a Pastry Professor at a Houston College and loving it.
-- I've write and illustrate e-books for fun.
+- I write and illustrate [e-books](https://github.com/celestealexmoore/e-book) for fun.
 - I can give you best places to eat in Houston, no matter the cuisine. Go ahead, try me.
 
 ___
