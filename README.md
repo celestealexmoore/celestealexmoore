@@ -8,28 +8,24 @@
 
   ### 👩🏽‍💻 Bio
   
-  Hi! I'm Celeste. If you'd like to get straight to business, [see my resume.](https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html)  
+  Hi! I'm Celeste. If you'd like to get straight to business, [download my resume.]([https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html](https://celestealexmoore.github.io/portfolio_3.0/))  
   
-  I graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August 2021. #BootCampBaby
-  
-I am a Full Stack JavaScript Developer with an artistic eye and knack for aesthetics. My interests include Googling emerging technologies, sifting through color schemes and typography best suited for the software I’m designing, and sharing Tech Tea with friends. I am heavy on the “I may not have done that before, but I can give any idea life with HTML, CSS, and JavaScript.” I genuinely enjoy when my plans leap from the wireframe onto a well-polished interface.
+  I graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August 2021.
 
-If I’m not coding, you can find me loudly laughing, cooking to end world hunger, supporting small businesses, clanking margarita glasses with my husband, or doing Pinterest activities with my one-year-old. And sometimes all of the above, simultaneously.
+If I’m not coding, you can find me loudly laughing, cooking to end world hunger, supporting small businesses, clanking margarita glasses with my husband, or doing Pinterest activities with my two-year-old. And sometimes all of the above, simultaneously.
 
 Frontend Skills: JavaScript | HTML | CSS | React.js | Tailwind | Bootstrap | Some TypeScript & Angular  
 Backend Skills: Node.js | Express.js | MongoDB | MySQL | Firebase  
 Other Technologies: Heroku | GitHub/ GitLab | Canva  
-I have an interest in discovering: Java, PHP, and .NET    
 ___
 
-### 🧠 Currently
+### 🧠 Currently  
 
-- I’m working on:
-    - Building a new Portfolio with React using a Paralax Effect.
-    - Pair-coding with friends, developing React applications for practice | See [hatchwaysReactApp](https://github.com/celestealexmoore/hatchways_ReactApp), [work_Order](https://github.com/celestealexmoore/work_Order), or [react_Calculator](https://github.com/celestealexmoore/react_Calculator)
-    - A React-based mock-up of Instagram | See [instagram_Clone](https://github.com/celestealexmoore/instagram_Clone)
-    - Crushing Medium Leetcode algorithms and better understanding Time and Space Complexities.
-    - Introducing myself to Angular and Typescript.
+- I have just completed my new [portfolio.]([https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html](https://celestealexmoore.github.io/portfolio_3.0/))  
+- I’m working on:  
+    - Pair-coding with friends, developing React applications for practice.
+    - Crushing Medium Leetcode Algorithms and better understanding Time and Space Complexities.
+    - Getting cozy with Angular.
 ___
 
 ### 😳 Fun Facts:
