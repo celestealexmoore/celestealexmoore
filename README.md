@@ -8,7 +8,7 @@
 
   ### 👩🏽‍💻 Bio
   
-  Hi! I'm Celeste. If you'd like to get straight to business, [download my resume.]([https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html](https://celestealexmoore.github.io/portfolio_3.0/))  
+  Hi! I'm Celeste. If you'd like to get straight to business, [download my resume.](https://celestealexmoore.github.io/portfolio_3.0/)
   
   I graduated from __Rice University's__ Susanne Glasscock's School of Continuing Studies with a __Certification__ in __FullStack Web Development__ in August 2021.
 
@@ -21,7 +21,7 @@ ___
 
 ### 🧠 Currently  
 
-- I have just completed my new [portfolio.]([https://celestealexmoore.github.io/Celeste-Moore-Portfolio/resume.html](https://celestealexmoore.github.io/portfolio_3.0/))  
+- I have just completed my new [portfolio.](https://celestealexmoore.github.io/portfolio_3.0/)  
 - I’m working on:  
     - Pair-coding with friends, developing React applications for practice.
     - Crushing Medium Leetcode Algorithms and better understanding Time and Space Complexities.
